@@ -7242,6 +7242,14 @@ button.bg-dark:focus {
   float: right !important;
 }
 
+.input-card{
+  border-radius: 5px;
+  background-color: #6975de;
+  border: none;
+  color: white
+}
+
+
 .float-none {
   float: none !important;
 }
@@ -9911,7 +9919,7 @@ blockquote {
     page-break-inside: avoid;
   }
 
-  thead {
+  thead {button-card
     display: table-header-group;
   }
 
